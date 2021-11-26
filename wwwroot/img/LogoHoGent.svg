@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="none"
+   x="0px"
+   y="0px"
+   width="500"
+   height="282.008"
+   viewBox="0 0 500 282.008"
+   id="svg14"
+   sodipodi:docname="LogoHoGent.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1.3926175"
+     inkscape:cx="327.23498"
+     inkscape:cy="218.10205"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs2" />
+  <g
+     id="Layer_1" />
+  <g
+     id="Laag_1"
+     transform="matrix(3.7327361,0,0,3.7327361,-483.01605,-416.57335)">
+    <g
+       id="g11">
+      <g
+         id="g9">
+        <g
+           id="g7">
+          <path
+             fill="#000000"
+             stroke="none"
+             d="m 148.5,160.2 q 4.75,0 8.15,3.75 l 6,-5.45 q -2.45,-3 -6.2,-4.55 -3.75,-1.6 -8.4,-1.6 -5.35,0 -9.6,2.25 -4.25,2.2 -6.65,6.15 -2.4,4 -2.4,9 0,5.05 2.4,9 2.4,3.95 6.6,6.2 4.2,2.2 9.45,2.2 3.75,0 7.45,-1.1 3.75,-1.1 6.6,-3.15 v -13.85 h -8.35 v 9.15 q -2.4,1.1 -5.1,1.1 -2.8,0 -4.95,-1.2 -2.15,-1.25 -3.35,-3.4 -1.2,-2.2 -1.2,-4.95 0,-4.35 2.65,-6.95 2.6,-2.6 6.9,-2.6 m 86.65,-7.15 v 7.5 h 9.4 v 25.95 h 9.5 v -25.95 h 9.3 v -7.5 h -28.2 m -36.15,0 v 33.45 h 9.3 v -17.85 l 14.75,17.85 h 7.8 v -33.45 h -9.25 v 17.8 l -14.8,-17.8 H 199 m -5.75,7.3 v -7.3 h -25.4 v 33.45 h 25.4 v -7.3 H 177.2 v -6.15 h 16.05 V 166 H 177.2 v -5.65 h 16.05 M 165.3,146.4 v -33.45 h -9.95 V 125.5 H 141.7 v -12.55 h -9.95 v 33.45 h 9.95 v -13.05 h 13.65 v 13.05 h 9.95 m 38.8,-8.45 q 2.4,-3.95 2.4,-8.95 0,-4.95 -2.4,-8.95 -2.4,-3.95 -6.65,-6.2 -4.2,-2.25 -9.55,-2.25 -5.3,0 -9.5,2.25 -4.25,2.25 -6.65,6.2 -2.4,4 -2.4,8.95 0,5 2.4,8.95 2.4,3.95 6.65,6.2 4.2,2.25 9.5,2.25 5.35,0 9.55,-2.25 4.25,-2.2 6.65,-6.2 m -16.2,-18.5 q 2.55,0 4.6,1.2 2.05,1.2 3.25,3.35 1.2,2.2 1.2,5 0,2.85 -1.2,5 -1.15,2.15 -3.25,3.4 -2.05,1.15 -4.6,1.15 -2.5,0 -4.55,-1.15 -2.1,-1.25 -3.25,-3.4 -1.2,-2.15 -1.2,-5 0,-2.8 1.2,-5 1.2,-2.15 3.25,-3.35 2.05,-1.2 4.55,-1.2 z"
+             id="path5" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
