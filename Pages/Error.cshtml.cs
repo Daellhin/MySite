@@ -22,7 +22,6 @@ namespace MySite.Pages
         public ErrorModel(ILogger<ErrorModel> logger)
         {
             _logger = logger;
-            string a = "heelo";
             
         }
 
